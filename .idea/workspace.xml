@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b80150de-90f6-4317-bbb6-1763ae713748" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/US001/TC01_AramaKutusuTesti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviderUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReusableMethods.java" afterDir="false" />
-    </list>
+    <list default="true" id="b80150de-90f6-4317-bbb6-1763ae713748" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
